@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amit-202128
 - 👀 I’m interested in Python, Pyspark, AWS, data science 
-- 🌱 I’m currently learning and working as Sr. Data Engineer
+- 🌱 I’m currently learning and working as Sr Data Engineer Project Manager (AWS)
 - 💞️ I’m looking to collaborate on data warehouse 
-- 📫 How to reach me ; 
+- 📫 How to reach me ; IND + 91 - 7079014262 
 amitpaulom@gmail.com
 
 
